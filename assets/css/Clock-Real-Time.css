@@ -1,0 +1,14 @@
+#time {
+  color: white;
+  padding: 0px 0px 0px 0px;
+  /*margin-top: 2px;*/
+}
+
+@media (min-width: 992px) {
+  #time {
+    color: white;
+    padding: 0px 0px 0px 390px;
+    /*margin-top: 2px;*/
+  }
+}
+
